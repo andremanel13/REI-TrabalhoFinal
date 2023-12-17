@@ -1,0 +1,32 @@
+/PSS(R)E 35
+COM
+COM SUBSYSTEM description file entry created by PSS(R)E Config File Builder
+COM
+SUBSYSTEM 'CONTINGENCIA'
+   BUS 1
+   BUS 101
+   BUS 105
+   BUS 119
+   BUS 150
+   BUS 171
+   BUS 301
+   BUS 401
+   BUS 501
+   BUS 601
+   BUS 801
+   BUS 901
+   BUS 1001
+   BUS 1801
+   BUS 1901
+   BUS 2001
+   BUS 2101
+   BUS 2201
+   BUS 2501
+   BUS 2801
+   BUS 2901
+   BUS 3001
+   BUS 3101
+   BUS 3201
+   BUS 5103
+END
+END

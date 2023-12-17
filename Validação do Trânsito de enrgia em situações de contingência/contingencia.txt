@@ -1,0 +1,129 @@
+ The working case has a largest mismatch of       0.00  MW  at bus    801     [CACHOPO     60.000]
+                                                  0.00 Mvar at bus    801     [CACHOPO     60.000]
+
+ Processing contingency "SING OPN LIN   1 1-101(18)" (#1 of 31):
+ OPEN LINE FROM BUS 1 [PORTEIRINHOS60.000] TO BUS 101 [OURIQUE.2   60.000] CKT 18
+ 1 bus(es) not connected back to a swing bus
+ 1 bus(es) in the largest island
+
+ Processing contingency "SING OPN LIN   2 101-150(14)" (#2 of 31):
+ OPEN LINE FROM BUS 101 [OURIQUE.2   60.000] TO BUS 150 [OURIQUE     150.00] CKT 14
+ 2 bus(es) not connected back to a swing bus
+ 2 bus(es) in the largest island
+
+ Processing contingency "SING OPN LIN   3 105-150(3)" (#3 of 31):
+ OPEN LINE FROM BUS 105 [F.ALENT     150.00] TO BUS 150 [OURIQUE     150.00] CKT 3
+
+ Processing contingency "SING OPN LIN   4 105-171(2)" (#4 of 31):
+ OPEN LINE FROM BUS 105 [F.ALENT     150.00] TO BUS 171 [ERMIDAS     150.00] CKT 2
+
+ Processing contingency "SING OPN LIN   5 105-2501(11)" (#5 of 31):
+ OPEN LINE FROM BUS 105 [F.ALENT     150.00] TO BUS 2501 [F.ALENT.2   60.000] CKT 11
+
+ Processing contingency "SING OPN LIN   6 105-2501(12)" (#6 of 31):
+ OPEN LINE FROM BUS 105 [F.ALENT     150.00] TO BUS 2501 [F.ALENT.2   60.000] CKT 12
+
+ Processing contingency "SING OPN LIN   7 105-2501(13)" (#7 of 31):
+ OPEN LINE FROM BUS 105 [F.ALENT     150.00] TO BUS 2501 [F.ALENT.2   60.000] CKT 13
+
+ Processing contingency "SING OPN LIN   8 119-150(4)" (#8 of 31):
+ OPEN LINE FROM BUS 119 [SINES       150.00] TO BUS 150 [OURIQUE     150.00] CKT 4
+
+ Processing contingency "SING OPN LIN   9 119-150(5)" (#9 of 31):
+ OPEN LINE FROM BUS 119 [SINES       150.00] TO BUS 150 [OURIQUE     150.00] CKT 5
+
+ Processing contingency "SING OPN LIN   10 119-171(1)" (#10 of 31):
+ OPEN LINE FROM BUS 119 [SINES       150.00] TO BUS 171 [ERMIDAS     150.00] CKT 1
+
+ Processing contingency "SING OPN LIN   11 119-1801(15)" (#11 of 31):
+ OPEN LINE FROM BUS 119 [SINES       150.00] TO BUS 1801 [SINES.2     60.000] CKT 15
+
+ Processing contingency "SING OPN LIN   12 119-1801(16)" (#12 of 31):
+ OPEN LINE FROM BUS 119 [SINES       150.00] TO BUS 1801 [SINES.2     60.000] CKT 16
+
+ Processing contingency "SING OPN LIN   13 119-1801(17)" (#13 of 31):
+ OPEN LINE FROM BUS 119 [SINES       150.00] TO BUS 1801 [SINES.2     60.000] CKT 17
+
+ Processing contingency "SING OPN LIN   14 150-301(25)" (#14 of 31):
+ OPEN LINE FROM BUS 150 [OURIQUE     150.00] TO BUS 301 [TAVIRA      150.00] CKT 25
+
+ Processing contingency "SING OPN LIN   15 150-5103(6)" (#15 of 31):
+ OPEN LINE FROM BUS 150 [OURIQUE     150.00] TO BUS 5103 [N.CORVO     150.00] CKT 6
+ 1 bus(es) not connected back to a swing bus
+ 1 bus(es) in the largest island
+
+ Processing contingency "SING OPN LIN   16 301-401(26)" (#16 of 31):
+ OPEN LINE FROM BUS 301 [TAVIRA      150.00] TO BUS 401 [TAVIRA.2    60.000] CKT 26
+
+ Processing contingency "SING OPN LIN   17 301-401(27)" (#17 of 31):
+ OPEN LINE FROM BUS 301 [TAVIRA      150.00] TO BUS 401 [TAVIRA.2    60.000] CKT 27
+
+ Processing contingency "SING OPN LIN   18 401-801(29)" (#18 of 31):
+ OPEN LINE FROM BUS 401 [TAVIRA.2    60.000] TO BUS 801 [CACHOPO     60.000] CKT 29
+ 2 bus(es) not connected back to a swing bus
+ 2 bus(es) in the largest island
+
+ Processing contingency "SING OPN LIN   19 401-901(30)" (#19 of 31):
+ OPEN LINE FROM BUS 401 [TAVIRA.2    60.000] TO BUS 901 [CONCEIÇÃO   60.000] CKT 30
+ 3 bus(es) not connected back to a swing bus
+ 3 bus(es) in the largest island
+
+ Processing contingency "SING OPN LIN   20 501-901(31)" (#20 of 31):
+ OPEN LINE FROM BUS 501 [ALDEIA NOVA 60.000] TO BUS 901 [CONCEIÇÃO   60.000] CKT 31
+ 1 bus(es) not connected back to a swing bus
+ 1 bus(es) in the largest island
+
+ Processing contingency "SING OPN LIN   21 601-801(28)" (#21 of 31):
+ OPEN LINE FROM BUS 601 [ALMODÔVAR   60.000] TO BUS 801 [CACHOPO     60.000] CKT 28
+ 1 bus(es) not connected back to a swing bus
+ 1 bus(es) in the largest island
+
+ Processing contingency "SING OPN LIN   22 901-1001(32)" (#22 of 31):
+ OPEN LINE FROM BUS 901 [CONCEIÇÃO   60.000] TO BUS 1001 [CASTRO MARIM60.000] CKT 32
+ 1 bus(es) not connected back to a swing bus
+ 1 bus(es) in the largest island
+
+ Processing contingency "SING OPN LIN   23 1801-2001(8)" (#23 of 31):
+ OPEN LINE FROM BUS 1801 [SINES.2     60.000] TO BUS 2001 [MONTE FEIO  60.000] CKT 8
+ 2 bus(es) not connected back to a swing bus
+ 2 bus(es) in the largest island
+
+ Processing contingency "SING OPN LIN   24 1801-2101(10)" (#24 of 31):
+ OPEN LINE FROM BUS 1801 [SINES.2     60.000] TO BUS 2101 [V.N.MILFONTE60.000] CKT 10
+ 1 bus(es) not connected back to a swing bus
+ 1 bus(es) in the largest island
+
+ Processing contingency "SING OPN LIN   25 1801-2201(9)" (#25 of 31):
+ OPEN LINE FROM BUS 1801 [SINES.2     60.000] TO BUS 2201 [S. CACÉM    60.000] CKT 9
+ 1 bus(es) not connected back to a swing bus
+ 1 bus(es) in the largest island
+
+ Processing contingency "SING OPN LIN   26 1901-2001(7)" (#26 of 31):
+ OPEN LINE FROM BUS 1901 [COMPORTA    60.000] TO BUS 2001 [MONTE FEIO  60.000] CKT 7
+ 1 bus(es) not connected back to a swing bus
+ 1 bus(es) in the largest island
+
+ Processing contingency "SING OPN LIN   27 2501-2901(19)" (#27 of 31):
+ OPEN LINE FROM BUS 2501 [F.ALENT.2   60.000] TO BUS 2901 [ALJUSTREL   60.000] CKT 19
+ 1 bus(es) not connected back to a swing bus
+ 1 bus(es) in the largest island
+
+ Processing contingency "SING OPN LIN   28 2501-3001(20)" (#28 of 31):
+ OPEN LINE FROM BUS 2501 [F.ALENT.2   60.000] TO BUS 3001 [BEJA        60.000] CKT 20
+ 1 bus(es) not connected back to a swing bus
+ 1 bus(es) in the largest island
+
+ Processing contingency "SING OPN LIN   29 2501-3101(21)" (#29 of 31):
+ OPEN LINE FROM BUS 2501 [F.ALENT.2   60.000] TO BUS 3101 [F.ALENTEJO  60.000] CKT 21
+ 1 bus(es) not connected back to a swing bus
+ 1 bus(es) in the largest island
+
+ Processing contingency "SING OPN LIN   30 2501-3201(22)" (#30 of 31):
+ OPEN LINE FROM BUS 2501 [F.ALENT.2   60.000] TO BUS 3201 [VALE DO GAIO60.000] CKT 22
+ 2 bus(es) not connected back to a swing bus
+ 2 bus(es) in the largest island
+
+ Processing contingency "SING OPN LIN   31 2801-3201(23)" (#31 of 31):
+ OPEN LINE FROM BUS 2801 [AL.SAL      60.000] TO BUS 3201 [VALE DO GAIO60.000] CKT 23
+ 1 bus(es) not connected back to a swing bus
+ 1 bus(es) in the largest island

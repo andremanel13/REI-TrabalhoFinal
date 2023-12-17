@@ -1,0 +1,36 @@
+150 kV:
+  PTI INTERACTIVE POWER SYSTEM SIMULATOR--PSS(R)E Xplore SAT, DEC 16 2023  22:19
+
+
+
+ BUSES WITH VOLTAGE GREATER THAN 1.0500:
+
+   BUS#-SCT X-- NAME --X BASKV AREA  V(PU)  V(KV)      BUS#-SCT X-- NAME --X BASKV AREA  V(PU)  V(KV)
+
+                                            * NONE *
+
+
+ BUSES WITH VOLTAGE LESS THAN 0.9500:
+
+   BUS#-SCT X-- NAME --X BASKV AREA  V(PU)  V(KV)      BUS#-SCT X-- NAME --X BASKV AREA  V(PU)  V(KV)
+
+                                            * NONE *
+
+
+60 kV:
+  PTI INTERACTIVE POWER SYSTEM SIMULATOR--PSS(R)E Xplore SAT, DEC 16 2023  22:20
+
+
+
+ BUSES WITH VOLTAGE GREATER THAN 1.0300:
+
+   BUS#-SCT X-- NAME --X BASKV AREA  V(PU)  V(KV)      BUS#-SCT X-- NAME --X BASKV AREA  V(PU)  V(KV)
+
+                                            * NONE *
+
+
+ BUSES WITH VOLTAGE LESS THAN 0.9700:
+
+   BUS#-SCT X-- NAME --X BASKV AREA  V(PU)  V(KV)      BUS#-SCT X-- NAME --X BASKV AREA  V(PU)  V(KV)
+
+                                            * NONE *
